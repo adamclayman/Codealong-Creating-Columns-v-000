@@ -122,6 +122,8 @@ img, video, audio {
 
 header {
   position: fixed;
+  top: 0;
+  left: 0;
 }
 
 section {
